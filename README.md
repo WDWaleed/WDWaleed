@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning ML, with plans for Gen AI, Agentic AI, and DL.
+Full-Stack Web Developer. Currently learning ML.
 
 
 ## 🌐 Socials:
